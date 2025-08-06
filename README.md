@@ -48,6 +48,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijumia&theme=gotham&hide_border=false" alt="GitHub Streak" />
 </div><br>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
@@ -58,6 +59,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -99,16 +101,21 @@
 <!-- Snake Contribution Animation -->
 <h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aɴɪᴍᴀᴛɪᴏɴ 🐍</h2>
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-light.svg" />
     <img alt="GitHub Snake animation" src="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-dark.svg" />
   </picture>
-</p>
+</div>
 
 ### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-
+<!--Footer--> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+</div>
 
