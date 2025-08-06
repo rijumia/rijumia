@@ -46,7 +46,7 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijumia&theme=gotham&hide_border=false" alt="GitHub Streak" />
-</div>
+</div><br>
 
 <table>
   <tr>
@@ -59,13 +59,18 @@
   </tr>
 </table>
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rijumia&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
 ![](https://github-profile-trophy.vercel.app/?username=rijumia&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/>🤝 Connect with me:
 
 <div align="left">
 <a href="mailto:riju.ahmed2512@gmail.com" target="_blank">
@@ -90,6 +95,17 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div> 
+
+<!-- Snake Contribution Animation -->
+<h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aɴɪᴍᴀᴛɪᴏɴ 🐍</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-light.svg" />
+    <img alt="GitHub Snake animation" src="https://github.com/MehediAlam49/MehediAlam49/raw/output/snake-dark.svg" />
+  </picture>
+</p>
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
