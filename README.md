@@ -39,7 +39,7 @@
 <br/>
 
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/>📊 My Github Stats
 
 
 
@@ -68,7 +68,7 @@
 </div>
 
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/>🏆 Achievement
 
 ![](https://github-profile-trophy.vercel.app/?username=rijumia&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
