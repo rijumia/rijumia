@@ -72,7 +72,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=rijumia&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/>🤝 Connect with me:
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/>🤝 Connect With Me:
 
 <div align="left">
 <a href="mailto:riju.ahmed2512@gmail.com" target="_blank">
