@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/rijumia/rijumia/blob/main/images/githubcover.png" align="center" style="width: 100%" />
+<img src="https://github.com/rijumia/rijumia/blob/main/images/githubcover.png" align="center" style="width: 100%; margin-top: 5px" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI👋,+I'M+Riju+Mia🙋‍♂️;HI👋,+I'M+Riju+Mia👋&center=true" alt="Typing SVG" /><br/>
 <img src="https://readme-typing-svg.herokuapp.com?lines=🤩Love+Coding+and+Designing;🤩Love+Teaching+Others;💪Hard+Worker;🤔Critical+Thinker&center=true">
 </p>
